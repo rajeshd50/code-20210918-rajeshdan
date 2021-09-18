@@ -2,6 +2,8 @@ Car listing UI
 
 [Live Url](https://code-20210918-rajeshdan.web.app)
 
+UI stack - React+Redux+Saga+Bootstrap
+
 ## Available Scripts
 
 In the project directory, you can run:
